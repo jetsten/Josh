@@ -1,7 +1,7 @@
 #!/usr/bin/python
 def main():
     
-    year =n("Please Enter a year: ")
+    n=year("Please Enter a year: ")
     na = n%19
     nb = n%4
     nc = n%7
